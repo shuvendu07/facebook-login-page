@@ -1,0 +1,20 @@
+
+.container {
+    border: 1px solid black;
+}
+
+.col-6,
+.col-4 {
+    border: 1px solid black;
+}
+
+
+.fs {
+    font-family: "poppins";
+    font-size: 60px;
+    border: 1px solid black;
+}
+
+/* .btn:hover {
+    background-color: #166fe5;
+} */
